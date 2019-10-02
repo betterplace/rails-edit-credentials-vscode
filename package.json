@@ -1,7 +1,12 @@
 {
 	"name": "rails-edit-credentials",
 	"displayName": "Rails Edit Credentials",
+	"publisher": "betterplace",
 	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/betterplace/rails-edit-credentials-vscode"
+	},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.37.0"
